@@ -171,7 +171,13 @@ form
 	text-align: left;
 }
 
-.AssistantDirector {
+Img.CenImg {
 	display: block;
-	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.space {
+	line-height: 2.5;
+	line-space: 1.0;
 }
